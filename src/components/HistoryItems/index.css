@@ -1,0 +1,42 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: 'Roboto';
+  /* border: 1px solid black; */
+}
+
+.item-content-container {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  /* border: 1px solid red; */
+}
+.time {
+  color: #475569;
+  font-size: 14px;
+  font-weight: 500;
+}
+.domain-logo {
+  margin-left: 40px;
+}
+.title {
+  margin-left: 20px;
+  font-size: 14px;
+  font-weight: 500;
+}
+.domain-url {
+  margin-left: 15px;
+  font-size: 14px;
+  color: #64748b;
+}
+.domain-logo {
+  width: 20px;
+  height: 20px;
+  color: #475569;
+}
+.delete-logo {
+  background-color: #ffffff;
+  border: none;
+  outline: none;
+}
